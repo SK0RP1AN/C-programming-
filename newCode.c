@@ -1,7 +1,8 @@
+// Basic firs code 
 #include <stdio.h>
 
 int main(){
 
-    printf("hello my ");
+    printf("hello world");
     return 0;
 }
