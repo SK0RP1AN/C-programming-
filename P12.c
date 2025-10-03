@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 int main(){
-    int number,i;
+    int Numbers, number;
     int sum=0; 
 
    printf("Pick a numbers:");
-   scanf("%d", &number);
+   scanf("%d", &Numbers);
 
-   for(i=1 ; i<=number ; i++){
-    sum += i;
+   for(num=1 ; i<Numbers ; num++){
+    sum += num;
    }
 
    printf("%d", sum);
