@@ -7,7 +7,7 @@ int main(){
    printf("Pick a numbers:");
    scanf("%d", &Numbers);
 
-   for(num=1 ; i<Numbers ; num++){
+   for(num=1 ; num<Numbers ; num++){
     sum += num;
    }
 
