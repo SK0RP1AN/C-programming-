@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int Numbers, number;
+    int Numbers, num;
     int sum=0; 
 
    printf("Pick a numbers:");
